@@ -2639,6 +2639,46 @@ body {
 .cid-rDbuk6icBl .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-rDc6iZh0TY {
+  padding-top: 105px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rDc6iZh0TY .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rDc6iZh0TY .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rDc6iZh0TY .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rDc6iZh0TY .team-item .item-image img {
+  width: 100%;
+}
+.cid-rDc6iZh0TY .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rDc6iZh0TY .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rDc6iZh0TY .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rDc6iZh0TY .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rDc6iZh0TY .team-item .item-caption {
+  background: #efefef;
+}
 .cid-rDbuk6icBl .navbar {
   background: #f6921c;
   transition: none;
